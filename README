@@ -1,11 +1,11 @@
 		    			JComecocos
-JComecocos esta hecho con la intenci�n de probar el algoritmo A*.
-Para hacer la implementaci�n he seguido un tutorial bastante facil de entender:
+JComecocos esta hecho con la intención de probar el algoritmo A*.
+Para hacer la implementación he seguido un tutorial bastante facil de entender:
 -http://www.policyalmanac.org/games/aStarTutorial_es.htm
 
-Mi implementaci�n del algoritmo A* se encuentra en el archivo Astar.java,  es 
+Mi implementación del algoritmo A* se encuentra en el archivo Astar.java,  es 
 un poco cutre, se se calcula el camino en cada ciclo en vez de hacer un hilo
-que lo calcule cada cierto tiempo ya los algoritmos de b�squeda consumen
+que lo calcule cada cierto tiempo ya los algoritmos de búsqueda consumen
 bastante tiempo.
 
 
