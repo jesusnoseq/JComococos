@@ -1,18 +1,7 @@
-		    			JComecocos
-JComecocos está hecho con la intención de probar el algoritmo A*.
+JComecocos
+JComecocos está hecho con la intención de probar y aprender el algoritmo A*.
 Para hacer la implementación he seguido un tutorial bastante facil de entender:
 -http://www.policyalmanac.org/games/aStarTutorial_es.htm
 
-Mi implementación del algoritmo A* se encuentra en el archivo Astar.java. Es 
-un poco cutre, se se calcula el camino en cada ciclo en vez de hacer un hilo
-que lo calcule cada cierto tiempo ya los algoritmos de búsqueda consumen
-bastante tiempo.
-
-
-EL diseño OO del comecocos y del algoritmo es bastante malo, cuando lo implementé 
-no sabía POO como se debe, así que lo mejoraré algún día e intentaré hacer el 
-algoritmo A* de manera que se pueda reutilizar. Esto lo digo para que sirva de 
-ejemplo de mala implementación.
-
-Cualquier duda o consulta podéis enviarmela por twitter: @jesusnoseq
+Mi implementación del algoritmo A* se encuentra en el archivo Astar.java
  
